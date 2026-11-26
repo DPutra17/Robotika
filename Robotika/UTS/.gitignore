@@ -1,0 +1,10 @@
+# Kredensial (token Blynk + password WiFi)
+secrets.h
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Build Arduino
+build/
